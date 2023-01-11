@@ -1,8 +1,8 @@
 # SHM-repo
 
 ## Related information
-Here is the code of "End-to-end learning the partial permutation matrix for robust 3D point cloud registration" (``https://ojs.aaai.org/index.php/AAAI/article/view/20250``), which proposes a two-stage matching module to achieve end-to-end hard matching.
-
+<!--Here is the code of "End-to-end learning the partial permutation matrix for robust 3D point cloud registration" (``https://ojs.aaai.org/index.php/AAAI/article/view/20250``), which proposes a two-stage matching module to achieve end-to-end hard matching.-->
+Here is the SHM code.
 <!--Note: the code is being prepared. -->
 
 ## Implementation
@@ -31,6 +31,7 @@ python main.py --finetune True --tune_path YOUR_CHECKPOINT_DIRECTORY
 ## Acknowledgement
 The code is insipred by DCP, PRNet, RPMNet, DGR, etc.
 
+<!--
 ## Please cite:
 ```
 @inproceedings{zhang_SHM_AAAI_2022,
@@ -39,3 +40,4 @@ The code is insipred by DCP, PRNet, RPMNet, DGR, etc.
   booktitle={AAAI Conference on Artificial Intelligence},
   year={2022}} 
 ```
+-->
